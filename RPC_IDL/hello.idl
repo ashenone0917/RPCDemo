@@ -1,0 +1,15 @@
+import "oaidl.idl";
+import "ocidl.idl";
+//file hello.idl
+[
+    uuid(88888888-6808-11cf-b73b-666666666666),
+    version(1.0)
+]
+interface hello
+{
+    void HelloProc(
+        [in, string] unsigned char* pszString,
+        [in, string] wchar_t *wString,
+        [in] __int32 nInt32,
+        [in] __int64 nInt64);
+}
