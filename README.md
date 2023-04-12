@@ -7,5 +7,6 @@ MyRPCServer project (x86 compilation) is the simplest RPC service program for ge
    
    The RPCRunAdminProcess project (compiled in x86) is to create an administrator process through the RPC pop-up UAC window.
    
+   MyRPCBreakPoint.txt is a windbg script file used to filter "interference items"
    
    Details on:https://bbs.kanxue.com/thread-276829.htm
