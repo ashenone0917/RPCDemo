@@ -12,5 +12,4 @@ MyRPCServer project (x86 compilation) is the simplest RPC service program for ge
    Details on:https://bbs.kanxue.com/thread-276829.htm
 
 
-**build order**
-RPC_IDL->other
+**build order**：RPC_IDL->other
