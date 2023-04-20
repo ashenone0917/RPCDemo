@@ -10,3 +10,7 @@ MyRPCServer project (x86 compilation) is the simplest RPC service program for ge
    MyRPCBreakPoint.txt is a windbg script file used to filter "interference items"
    
    Details on:https://bbs.kanxue.com/thread-276829.htm
+
+
+**build order**
+RPC_IDL->other
